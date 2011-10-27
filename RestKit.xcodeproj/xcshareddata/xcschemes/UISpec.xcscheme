@@ -13,9 +13,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "253A07FB1255161B00976E89"
-               BuildableName = "libRestKitNetwork.a"
-               BlueprintName = "RestKitNetwork"
+               BlueprintIdentifier = "3F6C39A410FE5C95008F47C5"
+               BuildableName = "UISpec.app"
+               BlueprintName = "UISpec"
                ReferencedContainer = "container:RestKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -37,6 +37,15 @@
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3F6C39A410FE5C95008F47C5"
+            BuildableName = "UISpec.app"
+            BlueprintName = "UISpec"
+            ReferencedContainer = "container:RestKit.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -47,12 +56,21 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "3F6C39A410FE5C95008F47C5"
+            BuildableName = "UISpec.app"
+            BlueprintName = "UISpec"
+            ReferencedContainer = "container:RestKit.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Ad Hoc"
+      buildConfiguration = "Release"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
